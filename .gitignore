@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/My First Project with Go/*
+!/My First Project with Go/task/
+/My First Project with Go/task/*
+!/My First Project with Go/task/main.go
